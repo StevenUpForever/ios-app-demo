@@ -1,4 +1,4 @@
-# ios_app_demo
+# ios-app-demo
 
 ## Introduction
 This is an iOS App demo mainly about social feed, focus on code structure and Cocoa Touch framework implementation. It's for my code training on programming language side `Objective-C` and iOS development side.
